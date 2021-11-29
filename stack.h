@@ -10,7 +10,7 @@
 
 class stack {
 public:
-	struct point;
+	//struct point;
 };
 
 #endif /* STACK_H_ */
